@@ -45,7 +45,7 @@ Many users want to restore or creatively enhance old black-and-white photos but 
 ##  Installation & Setup
 
 1. Clone the Repository
-git clone https://github.com/ataur-rehman/AI-Image-Colorizer.git
+git clone https://github.com/amna-asghar/AI-Image-Colourizer
 
      cd prismify
 
