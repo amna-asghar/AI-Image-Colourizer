@@ -88,7 +88,7 @@ Django community for powerful web tools
 
 ## **📬 Contact & Support**
 
-💼 GitHub: https://github.com/ataur-rehman
-📩 Email: ataurrehman3636@gmail.com
+💼 GitHub: https://github.com/amna-asghar
+📩 Email: ask4amnaasghar@gmail.com
 
 ⭐ If you like this project, consider giving it a star on GitHub! ⭐
